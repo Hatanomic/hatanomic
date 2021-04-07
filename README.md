@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm learning how to use basic github. Therefore, this is my first repository.
 
+I'm nearing 23 years of age, and I'm pretty shy in person. I just got a new job today and I'm pretty excited about it.
+
 <!--
 **Hatanomic/hatanomic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
